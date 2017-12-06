@@ -31,3 +31,5 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 
 this is for test git reset
+
+this is for test git reset-2
